@@ -1,4 +1,4 @@
-# Credit Worthiness Analysis - MLZilla Competition
+# Loan Risk Analysis - MLZilla Competition
 ### Secured 2nd position among a pool of 500 students nationally.
 ### Detailed steps of model creation are given in the ppt.
 
